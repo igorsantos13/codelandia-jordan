@@ -1,0 +1,31 @@
+.destaque-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Destaques{
+    color: #181818;
+    font-family: Montserrat;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 196.187%; /* 3.43325rem */
+}
+
+.Frete{
+    color: #181818;
+    font-family: Montserrat;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 196.187%; /* 3.43325rem */
+
+    text-align: center;
+}
+

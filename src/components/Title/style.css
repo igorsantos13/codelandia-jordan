@@ -1,0 +1,17 @@
+.title{
+    background: #F9F9F9;
+    color: #181818;
+    width: 100%;
+    height: 3.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1{
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 196.187%; /* 2.94281rem */ 
+}

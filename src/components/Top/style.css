@@ -1,0 +1,16 @@
+.descount{
+    height: 100%;
+    width: 100vw;
+    background-color: #00AEFF;
+    color: #181818;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 196.187%; /* 1.96188rem */ 
+}
