@@ -1,17 +1,17 @@
 .destaque-container{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
 
-    background-color: white;
+    background-color: #F9F9F9;
     width: 100vw;
-    height: 100vh;
+    height: 14.19rem;
 }
 
 .Destaques{
     color: #181818;
-    font-family: Montserrat;
+    /* font-family: Montserrat; */
     font-size: 1.75rem;
     font-style: normal;
     font-weight: 600;
@@ -19,13 +19,12 @@
 }
 
 .Frete{
-    color: #181818;
-    font-family: Montserrat;
-    font-size: 1.75rem;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 196.187%; /* 3.43325rem */
-
+    color: #474747;
     text-align: center;
+    /* font-family: Montserrat; */
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 180%; /* 1.8rem */
 }
 
