@@ -2,7 +2,7 @@ main{
     width: 100%;
     height: 30vh;
     opacity: 1;
-    overflow-x: hidden;
+    overflow-y: hidden;
     position: relative;
 }
 
@@ -51,4 +51,24 @@ main img{
     text-align: justify;
 
     padding: 0 2rem;  
+}
+
+@media (min-width: 700px) {
+
+    main{
+        height: 50vh;
+
+    }
+
+    .text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+        width: 50%;
+    }
+
+    .text p{
+        padding: 0 1.25rem;
+    }
 }

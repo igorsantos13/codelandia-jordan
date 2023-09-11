@@ -28,3 +28,11 @@
     line-height: 180%; /* 1.8rem */
 }
 
+/* @media (min-width: 700px) {
+    .destaque-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: center;
+    }
+} */

@@ -8,3 +8,15 @@
     align-items: center;
     margin-top: -10rem;
 }
+
+
+@media (min-width: 700px){
+    .container-card{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        /* gap: 2rem; */
+        height: 100vh;
+        width: 100vw;
+     
+    }
+}
